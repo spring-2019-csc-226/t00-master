@@ -1,9 +1,7 @@
 # T00: Exploring PyCharm
 
-Your Names: _____________________
-
-            _____________________
+Your Names:
             
-Google Doc Link: _____________________
+Google Doc Link: 
 
-Repo Link: _____________________
+Repo Link: 
